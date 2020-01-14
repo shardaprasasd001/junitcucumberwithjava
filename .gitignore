@@ -5,6 +5,8 @@
 
 \.settings/
 
+#Target folder need to be skiped 
+/target
 
 # Compiled class file
 *.class
